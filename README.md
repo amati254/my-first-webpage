@@ -1,17 +1,17 @@
-# H1 Web Page Test
+# Web Page Test Project
 
-## H2 Contributors
+## Contributors
 * Mark Laichena
 * Jayson Amati
 
-## H2 Project Description
+## Project Description
 The purpose of this project is enable us to learn basic HTML and CSS skills and familiarize ourselves with Git as part of the Moringa School Prep program.
 
-## H2 Instructions
+## Instructions
 N/A
 
-## H2 License Information
-### H3 MIT License
+## License Information
+### MIT License
 
 Copyright (c) 2016 Mark Laichena and Jayson Amati
 
@@ -33,5 +33,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## H2 Contact information
-For more information, contact Mark at mark@email.com 
+## Contact information
+For more information, contact Mark at mark@email.com
